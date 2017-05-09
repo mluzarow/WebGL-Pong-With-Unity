@@ -1,7 +1,11 @@
-@import url("navbar_z0.css")
+@import url("navbar_z0.css") all;
 
 body {
     background-color: black;
     margin: 0px;
     padding: 0px;
+}
+
+#gameContainer {
+    border: solid thin white;
 }
